@@ -2,7 +2,7 @@
 A 3D game where the player has to reach a final goal by overcoming the obstacles that come along the way and on reaching the checkpoints the player is allowed to continue the game from the last reached state.
 
 Game Objects used:
-* Player (Unity Chan) with key movements like jump , move ,walk ,kick ,slide and body gestures.
+* Player (Unity Chan) with movements like jump , walk and body gestures.
 * The platform(plane) with tile texture
 * A locality is created using sketchup for buildings with appropriate textures. 
 * Checkpoints: capsules with additive materials so that the player returns to the check marked position on falling.
